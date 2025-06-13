@@ -1,4 +1,3 @@
-cat > entrypoint.sh <<'EOF'
 #!/bin/bash
 
 echo "Started recording at $(date)"
@@ -14,4 +13,3 @@ bye
 EOT
 
 echo "Done recording + FTP uploaded $FILENAME"
-EOF
