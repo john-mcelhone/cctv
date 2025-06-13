@@ -6,7 +6,7 @@ services:
     network_mode: host
     environment:
       - NAME=cam1
-      - RTSP_URL=rtsp://10.0.0.254:8554/ald-1
+      - RTSP_URL=rtsp://admin:Greencat321!@65.76.180.189:554
     env_file:
       - .env
     volumes:
