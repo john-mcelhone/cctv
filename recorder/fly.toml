@@ -1,9 +1,9 @@
-# fly.toml app configuration file generated for cctv-lloapw on 2025-06-13T03:54:05Z
+# fly.toml app configuration file generated for cctv-id9oaq on 2025-06-13T03:59:37Z
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'cctv-lloapw'
+app = 'cctv-id9oaq'
 primary_region = 'sjc'
 
 [build]
