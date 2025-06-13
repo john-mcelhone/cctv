@@ -1,9 +1,9 @@
-# fly.toml app configuration file generated for cctv-oqtrzg on 2025-06-13T00:59:23Z
+# fly.toml app configuration file generated for cctv-lloapw on 2025-06-13T03:54:05Z
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'cctv-oqtrzg'
+app = 'cctv-lloapw'
 primary_region = 'sjc'
 
 [build]
